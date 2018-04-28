@@ -44,7 +44,7 @@ public class BasePresenter<V, T> implements LifeCycleListener {
     }
 
     /**
-     * 关联
+     * 关联(WeakReference 弱引用)
      *
      * @param view
      */
